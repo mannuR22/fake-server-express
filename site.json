@@ -1,0 +1,72 @@
+
+{
+	
+	"title": "Theme Park Site",
+    "titleImg": "URL of image",
+    "siteLink": "#",
+	"feature": [ 
+        {
+			"img": "adult rides",
+			"type": "Adult rides"
+        },
+        {
+			"img": "Family rides",
+			"type": "Family rides"
+        },
+        {
+			"img": "Restaurants",
+			"type": "Restaurants"
+        },
+        {
+			"img": "Premum",
+			"type": "Premum"
+        }
+    ],
+    "address": "Address of the site",
+    "opportunity": [
+        {
+            "url": "#",
+            "type": "View opportunity on polygon"
+        }
+    ],
+    "insights": {
+        "area": "200 Acres",
+        "startingPrice": "5 Lacks",
+        "remainingDays": "10 days",
+        "nextCheck": "2.5 years"
+    },
+    "discriptions": [
+        {   
+            "type": "Overview",
+            "value": ""
+        },
+        {
+            "type": "Why?",
+            "value": ""
+        },
+        {
+            "type": "What?",
+            "value": ""
+        }
+    ],
+    "landmarks": [
+        {
+            "type": "Airport",
+            "distance": "100 km",
+            "name": "Airport1"
+        },
+        {
+            "type": "Airport",
+            "distance": "25 km",
+            "name": "Green Which Terminia"
+        },
+        {
+            "type": "Highway",
+            "distance": "100 km",
+            "name": "Highway number 5"
+        }
+    ],
+    "map": "#"
+}
+    
+			
